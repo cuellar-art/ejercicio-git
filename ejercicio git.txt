@@ -1,0 +1,14 @@
+ejercicios con git y github
+
+primeros comandos
+git config --global user.name "cuellar-art"
+git config --global user.email jcuellare@inemkennedy.edu.co
+
+git config --list
+clear
+git init
+git status
+git add
+git commit -m "esta es mi primera version del archivo"
+git push -u origin master
+git remopte add origin https://github.com/cuellar-art/primer-ejercicio-git.git
